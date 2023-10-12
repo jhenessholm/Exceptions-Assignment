@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjoRJQxU0WSQj6yTn+hdNMwkvpOLQ2ObPUPAeySR0NIVnDqT70qjJ94UchVqgaPUU2T/5Wv9fbINqe1lFSAqyA==",
+  "success": true,
+  "projectFilePath": "/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/Exceptions Assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhenessholm/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

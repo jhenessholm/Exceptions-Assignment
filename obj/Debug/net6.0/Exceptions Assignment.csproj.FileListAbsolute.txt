@@ -1,0 +1,17 @@
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Exceptions Assignment
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Exceptions Assignment.deps.json
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Exceptions Assignment.runtimeconfig.json
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Exceptions Assignment.dll
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Exceptions Assignment.pdb
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.csproj.AssemblyReference.cache
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.AssemblyInfoInputs.cache
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.AssemblyInfo.cs
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.csproj.CoreCompileInputs.cache
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.csproj.CopyComplete
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.dll
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/refint/Exceptions Assignment.dll
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.pdb
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/Exceptions Assignment.genruntimeconfig.cache
+/Users/jhenessholm/Projects/Exceptions Assignment/Exceptions Assignment/obj/Debug/net6.0/ref/Exceptions Assignment.dll

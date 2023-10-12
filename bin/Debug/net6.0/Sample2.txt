@@ -1,0 +1,30 @@
+Animal: Lion
+Animal: Elephant
+Animal: Giraffe
+Animal: Zebra
+Animal: Cheetah
+Animal: Gorilla
+Animal: Penguin
+Animal: Polar Bear
+Animal: Kangaroo
+Animal: Tiger
+Number: 10
+Number: 25
+Number: 42
+Number: 56
+Number: 73
+Number: 98
+Number: 111
+Number: 123
+Number: 137
+Number: 150
+Place: Paris
+Place: New York
+Place: Tokyo
+Place: London
+Place: Sydney
+Place: Rome
+Place: Rio de Janeiro
+Place: Sweden
+Place: Beijing
+Place: Moscow
